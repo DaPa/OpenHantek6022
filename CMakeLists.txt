@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
 project(OpenHantek)
+set (CMAKE_PREFIX_PATH "D:/tools/Qt/5.12.9/msvc2017_64")
 
 set(OpenGL_GL_PREFERENCE GLVND)
 
